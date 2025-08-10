@@ -1,0 +1,11 @@
+
+---
+
+## **3. .gitignore**
+```gitignore
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore tasks file (so personal tasks don't go to GitHub)
+tasks.txt
